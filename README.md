@@ -33,10 +33,10 @@ Users should be able to:
 
 ### Screenshot
 
-![./img/screenshot-desktop-active.png]
-![./img/screenshot-desktop-design.png]
-![./img/screenshot-desktop-error.png]
-![./img/screenshot-desktop-success.png]
+![<img src='./public/img/screenshot-desktop-active.png'>]
+![<img src='./img/screenshot-desktop-design.png'>]
+![<img src='./img/screenshot-desktop-error.png'>]
+![<img src='./img/screenshot-desktop-success.png'>]
 
 ### Links
 

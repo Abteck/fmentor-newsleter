@@ -803,11 +803,6 @@ video {
     margin-right: auto;
   }
 
-  .md\:my-1 {
-    margin-top: 0.25rem;
-    margin-bottom: 0.25rem;
-  }
-
   .md\:my-4 {
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -888,5 +883,10 @@ video {
   .md\:text-sm {
     font-size: 0.875rem;
     line-height: 1.25rem;
+  }
+
+  .md\:hover\:shadow-red-500\/50:hover {
+    --tw-shadow-color: rgb(239 68 68 / 0.5);
+    --tw-shadow: var(--tw-shadow-colored);
   }
 }

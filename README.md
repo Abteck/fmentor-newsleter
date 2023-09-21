@@ -34,9 +34,9 @@ Users should be able to:
 ### Screenshot
 
 ![<img src='./public/img/screenshot-desktop-active.png'>]
-![<img src='./img/screenshot-desktop-design.png'>]
-![<img src='./img/screenshot-desktop-error.png'>]
-![<img src='./img/screenshot-desktop-success.png'>]
+![<img src='./public/img/screenshot-desktop-design.png'>]
+![<img src='./public/img/screenshot-desktop-error.png'>]
+![<img src='./public/img/screenshot-desktop-success.png'>]
 
 ### Links
 

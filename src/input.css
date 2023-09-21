@@ -2,14 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
-
 #email.incorrect {
   border: 2px solid tomato;
   background-color: #ffe8e7;

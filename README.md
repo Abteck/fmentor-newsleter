@@ -33,7 +33,7 @@ Users should be able to:
 ### Screenshot
 
 ![<img src='./public/img/screenshot-desktop-active.png'>]
-![<img src='./public/img/screenshot-desktop-design.png'>]
+![<img src='./public/img/screenshot-desktop-design.PNG'>]
 ![<img src='./public/img/screenshot-desktop-error.png'>]
 ![<img src='./public/img/screenshot-desktop-success.png'>]
 

@@ -32,10 +32,10 @@ Users should be able to:
 
 ### Screenshot
 
-![<img src='./public/img/screenshot-desktop-active.png'>]
-![<img src='./public/img/screenshot-desktop-design.PNG'>]
-![<img src='./public/img/screenshot-desktop-error.png'>]
-![<img src='./public/img/screenshot-desktop-success.png'>]
+![<img src='./public/img/screenshot-desktop-active.png' alt = 'desktop active'>]
+![<img src='./public/img/screenshot-desktop-design.PNG' alt = 'desktop design'>]
+![<img src='./public/img/screenshot-desktop-error.png' alt = 'desktop error'>]
+![<img src='./public/img/screenshot-desktop-success.png' alt = 'desktop success'>]
 
 ### Links
 
